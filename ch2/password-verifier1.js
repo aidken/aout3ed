@@ -20,7 +20,7 @@ class PasswordVerifier1 {
             }
         });
         return errors;
-    };
+    }
 
 } // end class PasswordVerifier1
 
